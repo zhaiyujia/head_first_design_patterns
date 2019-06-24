@@ -8,5 +8,4 @@ package com.design.strategy.member;
 public interface CalculateStrategy {
 
 	double calculatePrice(double price);
-
 }
